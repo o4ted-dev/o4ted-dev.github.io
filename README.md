@@ -1,2 +1,4 @@
 # o4ted-dev.github.io
-test site
+This is a test site for developing my web dev skills.
+
+-ted
